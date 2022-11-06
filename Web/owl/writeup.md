@@ -1,5 +1,5 @@
 # Writeup OWL
-Owl was a web challenge from the pwnoh.io CTF in November 2022.
+Owl was a web challenge from the BUCKEYE in November 2022.
 ## Understand the description
 
 First, you see `owl#9960` in the description of the challenge. So you're looking for a Discord user. If you search a bit in the CTF's discord, you find a bot with this username.
