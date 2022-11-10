@@ -5,4 +5,5 @@ These writeups are made by the members of the DIG174L CTF team. These show our s
 
 <a href="https://github.com/Phil-ip-M/CTF-writeups-DIG174L/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Phil-ip-M/CTF-writeups-DIG174L" />
+  <img src="https://contrib.rocks/image?repo=MindSystemm/ConfuserEx-Protection-Finder" />
 </a>
