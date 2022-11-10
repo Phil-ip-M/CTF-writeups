@@ -1,5 +1,5 @@
 # CTF-writeups-DIG174L
-These writeups are made by the members of the DIG174L CTF team. These show our solution, this doesn't mean that it is the only/best solution.
+These writeups are made by the members of the DIG174L CTF team. These show our solution, this doesn't mean that it is the only/best solutions.
 
 ### DIG174L members
 
